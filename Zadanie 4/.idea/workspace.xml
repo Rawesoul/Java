@@ -20,7 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zadanie5" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -53,10 +53,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="73" y="197" key="FileChooserDialogImpl" timestamp="1593271966141">
+    <state x="73" y="197" key="FileChooserDialogImpl" timestamp="1593286115310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="73" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593271966141" />
+    <state x="73" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593286115310" />
     <state x="364" y="263" key="Github.CreateGistDialog" timestamp="1593197351613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
