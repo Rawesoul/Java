@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2e785bb-be29-4995-a35e-56e230a6035e" name="Default Changelist" comment="" />
+    <list default="true" id="b2e785bb-be29-4995-a35e-56e230a6035e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Zadanie 4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/out/production/Zadanie 7/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/out/production/Zadanie 7/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1duMYNwfOLMZmJHVCvtWWroPT9T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,10 +57,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1593286180286">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1593950363079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593286180286" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593950363079" />
     <state width="1001" height="155" key="GridCell.Tab.0.bottom" timestamp="1593275269210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

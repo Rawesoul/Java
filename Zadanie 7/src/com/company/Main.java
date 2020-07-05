@@ -6,9 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
         //1. Определяем константы
-        byte x = 4;
-        byte y = 2;
-        byte z = 0;
+        final byte x = 4;
+        final byte y = 2;
+        final byte z = 0;
         //2. Вводим число
         System.out.println("Сравнение с константами. Введите число:");
         Scanner in = new Scanner(System.in);
