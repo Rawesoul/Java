@@ -8,7 +8,7 @@ public class Main {
     System.out.println("Введите двоичное число:");
     Scanner in = new Scanner(System.in);
     String ChisloBin = in.nextLine();
-    int ChisloDec = Integer.parseInt(ChisloBin, 3);
+    int ChisloDec = Integer.parseInt(ChisloBin, 2);
     System.out.println("Ваше число равно:"+ChisloDec);
     }
 }

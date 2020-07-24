@@ -10,22 +10,16 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int Num = in.nextInt();
         //Инициализируем массив
-        int massiv[] = new int[Num];
+        int[] massiv = new int[Num];
         // Вводим значения
-        int i = 0;
-        int j = 0;
-        do{
-            j++;
-            System.out.println("Введите значение элемента массива №="+ j);
-            massiv[i] = in.nextInt();
-            i++;
-        } while (i!=Num);
+        for (int i = 1; i<Num+1; i++){
+            System.out.println("Введите значение элемента массива №="+ i);
+            massiv[i-1] = in.nextInt();
+        };
         //Отображаем элементы массива
-        j = 0;
-        for (i = 0; i < Num; i++) {
-            j++;
-            massiv[i] = massiv[i]<<1;
-            System.out.println("Удвоенное значение элемента №="+j+" массива равно "+ massiv[i]);
+        for (int i = 1; i < Num+1; i++) {
+            massiv[i-1] = massiv[i-1]<<1;
+            System.out.println("Удвоенное значение элемента №="+i+" массива равно "+ massiv[i-1]);
         }
     }
 }

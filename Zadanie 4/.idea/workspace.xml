@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf637d45-206e-4c1d-bdd4-3497a5bc93c9" name="Default Changelist" comment="" />
+    <list default="true" id="cf637d45-206e-4c1d-bdd4-3497a5bc93c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10/out/production/Zadanie 10/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10/out/production/Zadanie 10/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 6/out/production/Zadanie 6/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 6/out/production/Zadanie 6/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 6/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 6/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/out/production/Zadanie 7/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/out/production/Zadanie 7/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9/out/production/Zadanie 9/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9/out/production/Zadanie 9/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +33,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dro2dgsgyN8c5gXtLWscMH8VY9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zadanie5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zadanie 6" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -53,10 +75,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="73" y="197" key="FileChooserDialogImpl" timestamp="1593286115310">
+    <state x="73" y="197" key="FileChooserDialogImpl" timestamp="1595515050870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="73" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593286115310" />
+    <state x="73" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595515050870" />
     <state x="364" y="263" key="Github.CreateGistDialog" timestamp="1593197351613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

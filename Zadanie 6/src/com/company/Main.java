@@ -14,10 +14,10 @@ public class Main {
         System.out.println("Введите число Z:");
         int z = in.nextInt();
         //Вычисляем среднее арифметическое
-        int Sredn = (x+y+z)/3;
+        double Sredn = (double) (x+y+z)/3;
         System.out.println("Среднее арифметическое значение = "+ Sredn);
-        //Делим на 2 без остатка
-        int delenie = Sredn>>1;
+        //Делим на 2
+        double delenie = Sredn/2;
         //Проверям итоговое условие
         if(delenie>3)
             System.out.println("Программа выполнена корректно");
